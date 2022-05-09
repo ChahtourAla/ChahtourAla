@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ala Chahtour</h1>
-# 💫About Me : </br>
+💫About Me : </br>
 🔭 I’m currently learning Blockchain, Smart Contract development and Web development </br>
 💬 Project manager at Enactus ENET'Com </br>
 📫 How to reach me: ala.chahtour@enetcom.u-sfax.tn </br>
