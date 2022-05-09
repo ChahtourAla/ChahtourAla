@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ala Chahtour</h1>
 # 💫About Me :
-🔭 I’m currently learning Blockchain, Smart Contract development and Web development 
-💬 Project manager at Enactus ENET'Com
-📫 How to reach me: ala.chahtour@enetcom.u-sfax.tn
+🔭 I’m currently learning Blockchain, Smart Contract development and Web development </br>
+💬 Project manager at Enactus ENET'Com </br>
+📫 How to reach me: ala.chahtour@enetcom.u-sfax.tn </br>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ala.chahtour.5/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/alachahtour99/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ala-chahtour-6a4533167/) 
