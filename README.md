@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ala Chahtour</h1>
 💫About Me : </br>
-🔭 I’m currently a Blockchain & web3.0 developer (Near protocol, Telegram open network ...) </br>
+🔭 I’m currently a Blockchain & web3.0 developer (EVM, Near protocol, Telegram open network ...) </br>
 💬 full stack web3 developer at Lightency </br>
 📫 How to reach me: ala@lightency.io </br>
 
